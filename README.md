@@ -1,4 +1,4 @@
-<h3 align="center">🚀 My Tech Stack</h3>
+<h3 align="center"> My Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
