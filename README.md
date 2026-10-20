@@ -1,33 +1,34 @@
 
-<h3 align="center">💻 My Tech Stack</h3>
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
 
 <p align="center">
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <em>Java Developer | Spring Boot | AWS | DevOps Enthusiast</em>
+</p>
 
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<p align="center">
+  <img src="./metrics.activity.svg" alt="GitHub activity" width="100%" />
+</p>
 
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+### 🚀 How I Work
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+- 💻 **Consistent Learning:** I continuously improve my programming and problem-solving skills.
+- 🛠️ **Build & Improve:** I enjoy building projects using Java, Spring Boot, JavaScript, and modern web technologies.
+- ☁️ **Cloud & DevOps:** I'm exploring AWS, Docker, Kubernetes, and CI/CD automation.
+- 🌱 **Always Growing:** I learn by building projects, experimenting with new technologies, and collaborating with developers.
+- 🔥 **Side Projects:** Currently working on [YOUR_PROJECT_NAME](YOUR_PROJECT_URL).
 
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+---
 
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+### 🌐 Connect With Me
 
-  <!-- CI/CD -->
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<p align="center">
+  <a href="YOUR_WEBSITE_URL">
+    <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
