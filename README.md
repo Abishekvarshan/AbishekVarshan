@@ -1,4 +1,4 @@
-```html
+
 <h3 align="center">💻 My Tech Stack</h3>
 
 <p align="center">
@@ -31,4 +31,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
-```
