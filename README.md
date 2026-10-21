@@ -16,7 +16,7 @@
 
 ### Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,aws,docker,kubernetes,git,github&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,aws,docker,kubernetes,linux,git,github&theme=dark" alt="skills" />
 </div>
 
 ### Stats
