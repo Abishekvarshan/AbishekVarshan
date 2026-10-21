@@ -8,11 +8,11 @@
 
 </div>
 
-### 👋 About Me
-- 🔭 Software Engineer building scalable apps
-- 🌱 Learning **Java** & **Spring Boot**
-- ☁️ Working with **AWS**, **Docker**, **Kubernetes**
-- ⚡ Comfortable with **JavaScript**
+### About Me
+- **Software Engineer building scalable apps**
+- **Learning Java & Spring Boot**
+- **Working with AWS, Docker, Kubernetes**
+- **Comfortable with JavaScript**
 
 ### 🛠️ Tech Stack
 <div align="center">
