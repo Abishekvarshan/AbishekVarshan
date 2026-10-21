@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Learning+Java+%7C+Spring+Boot;Docker+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=AbishekvarshanE&label=Views&color=0e75b6&style=flat-square" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Abishekvarshan&label=Views&color=0e75b6&style=flat-square" alt="views" />
 
 </div>
 
@@ -21,8 +21,8 @@
 
 ### Stats
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbishekvarshanE&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="160" src="https://streak-stats.demolab.com?user=AbishekvarshanE&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Abishekvarshan&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+<img height="160" src="https://streak-stats.demolab.com?user=Abishekvarshan&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 ### Connect
