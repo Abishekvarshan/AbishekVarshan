@@ -21,8 +21,8 @@
 
 ### 📊 Stats
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="160" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Abishekvarshan&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+<img height="160" src="https://streak-stats.demolab.com?user=Abishekvarshan&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 ### 📬 Connect
