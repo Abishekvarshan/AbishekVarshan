@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Abishek Varshan banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Learning+Java+%E2%98%95+%7C+Spring+Boot+%F0%9F%8C%B1;Docker+%7C+Kubernetes+%7C+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Learning+Java+%7C+Spring+Boot;Docker+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=AbishekvarshanE&label=Views&color=0e75b6&style=flat-square" alt="views" />
 
@@ -14,18 +14,18 @@
 - **Working with AWS, Docker, Kubernetes**
 - **Comfortable with JavaScript**
 
-### 🛠️ Tech Stack
+### Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,js,aws,docker,kubernetes,git,github&theme=dark" alt="skills" />
 </div>
 
-### 📊 Stats
+### Stats
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Abishekvarshan&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="160" src="https://streak-stats.demolab.com?user=Abishekvarshan&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbishekvarshanE&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+<img height="160" src="https://streak-stats.demolab.com?user=AbishekvarshanE&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
-### 📬 Connect
+### Connect
 <div align="center">
 <a href="https://www.linkedin.com/in/abishek-varshan-logu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:varsityabi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
